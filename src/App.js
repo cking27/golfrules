@@ -59,8 +59,8 @@ function App() {
             <div style={alignLeft}>
               <ul>
                 <li><strong>Team A</strong>  Dan, Simmer, Mapes, Rob</li>
-                <li><strong>Team A</strong>  Gastwirth, Donnie, Galbraith, Mike F</li> 
-                <li><strong>Team A</strong>  Zeitz, Jamie,Tuna,CCC</li>
+                <li><strong>Team B</strong>  Gastwirth, Donnie, Galbraith, Mike F</li> 
+                <li><strong>Team C</strong>  Zeitz, Jamie,Tuna,CCC</li>
                  </ul>
             </div>
 
