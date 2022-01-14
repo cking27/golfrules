@@ -60,7 +60,7 @@ function App() {
               <ul>
                 <li><strong>Team A</strong>  Pittsie, Donnie, Charlie K, Rob M</li>
                 <li><strong>Team B</strong>  Dan, Zeitz, CCC, Mike F</li> 
-                <li><strong>Team C</strong>  Gastwirth, Tim G,Rob A</li>
+                <li><strong>Team C</strong>  Gastwirth, Tim G,Rob A, Jamie</li>
                  </ul>
             </div>
 
