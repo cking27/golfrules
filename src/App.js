@@ -58,9 +58,9 @@ function App() {
             <h2>The Teams</h2>
             <div style={alignLeft}>
               <ul>
-                <li><strong>Team A</strong>  Dan, Simmer, Mapes, Rob</li>
-                <li><strong>Team B</strong>  Gastwirth, Donnie, Galbraith, Mike F</li> 
-                <li><strong>Team C</strong>  Zeitz, Jamie,Tuna,CCC</li>
+                <li><strong>Team A</strong>  Pittsie, Donnie, Charlie K, Rob M</li>
+                <li><strong>Team B</strong>  Dan, Zeitz, CCC, Mike F</li> 
+                <li><strong>Team C</strong>  Gastwirth, Tim G,Rob A</li>
                  </ul>
             </div>
 
@@ -105,14 +105,12 @@ function App() {
                 <li>Paper Scorecards - Record 7/5/5/5</li>          
                 <li>Golf Genius- Record <strong>6 (Player A)</strong>/6/6/6 Pink ball can subtract 1 on their score. Non Pinks must add 1</li>  
                 <li>Play the rest of the round straight up. Your paper scorecard and GolfGenius will be same</li>          
-        
               </ul>
 
               <div>&nbsp;</div>
               <li><strong>What about our GHIN posting?</strong></li>
               <ul>
                 <li>Chuck is going to not close out golf genius until later that day. He is going to put the REAL scores in and post those. </li>
-             
               </ul>
             </ul>
             </div>
