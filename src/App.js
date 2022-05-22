@@ -27,7 +27,9 @@ function App() {
 
 
         <div style={alignLeft} >
-          <h1>Our Address</h1>
+           <h1 >Itinerary (subject to change at a moment's notice!)</h1>
+
+          <h2>Our Address</h2>
           <p> 15104 Bat Hawk Circle, Austin TX 78738</p>
           <h2>Saturday, May 28th</h2>
           <div style={alignLeft}>
@@ -41,11 +43,11 @@ function App() {
               <li>Morning </li>
               <ul>
                 <li> Zilker Botanical Garden- Shaded/Good view of Austin 2220 Barton Springs Rd, Austin, TX 78746 </li>
-                <li> Peter Pan Putt 1207 Barton Springs Rd, Austin, TX 78704 </li>
+                <li> Peter Pan Putt Putt 1207 Barton Springs Rd, Austin, TX 78704 </li>
               </ul>
               <li>Afternoon </li>
               <ul>
-                <li> Lunch  </li>
+                <li> Lunch (Downtown - Loro or Bangers)</li>
                 <li> Home - Naps/rest/take dogs out</li>
               </ul>
               <li>Evening </li>
@@ -60,18 +62,37 @@ function App() {
             <ul>
               <li>Morning </li>
               <ul>
-                <li> Hamilton Pool Reserve - https://parks.traviscountytx.gov/parks/hamilton-pool-preserve </li>
-                <li> Peter Pan Putt 1207 Barton Springs Rd, Austin, TX 78704 </li>
+                <li> Hamilton Pool Reserve (HIKE) - https://parks.traviscountytx.gov/parks/hamilton-pool-preserve </li>
               </ul>
               <li>Afternoon </li>
               <ul>
-                <li> Lunch  </li>
+                <li> Lunch - Jester King Brewery </li>
+                <li> 5 Soul Winery - Pickelball/Hangout</li>
                 <li> Home - Naps/rest/take dogs out</li>
+
               </ul>
               <li>Evening </li>
               <ul>
-                <li> Adults - Dinner (bdays?) - El Gaucho Winery -  https://elgauchowinery.com/    </li>
-                <li> Kids - Hang </li>
+                <li> Dinner at Kings - order in or something</li>
+                <li> Austin Bat Boat Tour  </li>
+                <li> Downtown Night Life for those that aren't tired!  </li>
+              </ul>
+            </ul>
+          </div>
+          <h2>Tuesday, May 31st</h2>
+          <div style={alignLeft}>
+            <ul>
+              <li>Morning </li>
+              <ul>
+                <li>Lake Austin Boating (4hr) </li>
+              </ul>
+              <li>Afternoon </li>
+              <ul>
+                <li> Boat will dock us at Ski/Shores for lunch </li>
+              </ul>
+              <li>Evening </li>
+              <ul>
+                <li> Salt Lick BBQ </li>
               </ul>
             </ul>
           </div>
