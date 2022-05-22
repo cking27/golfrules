@@ -30,7 +30,8 @@ function App() {
            <h1 >Itinerary (subject to change at a moment's notice!)</h1>
 
           <h2>Our Address</h2>
-          <p> 15104 Bat Hawk Circle, Austin TX 78738</p>
+          <a href="https://www.google.com/maps/place/15104+Bat+Hawk+Cir,+Austin,+TX+78738/@30.3190752,-97.9789779,17z/data=!3m1!4b1!4m5!3m4!1s0x865b3839e1c9567f:0x62390814eb39840e!8m2!3d30.3190706!4d-97.9767839"> 15104 Bat Hawk Circle, Austin TX 78738</a>
+
           <h2>Saturday, May 28th</h2>
           <div style={alignLeft}>
             <ul>
@@ -42,17 +43,20 @@ function App() {
             <ul>
               <li>Morning </li>
               <ul>
-                <li> Zilker Botanical Garden- Shaded/Good view of Austin 2220 Barton Springs Rd, Austin, TX 78746 </li>
-                <li> Peter Pan Putt Putt 1207 Barton Springs Rd, Austin, TX 78704 </li>
+                <li><a href="https://zilkergarden.org/"> Zilker Botanical Garden- Shaded/Good view of Austin </a></li>
+                
+                <li> <a href="http://peterpanminigolf.com/"> Peter Pan Putt Putt 1207 Barton Springs Rd, Austin, TX 78704 </a></li>
+               
+                <li> Lady Bird Lake Walk</li>
               </ul>
               <li>Afternoon </li>
               <ul>
-                <li> Lunch (Downtown - Loro or Bangers)</li>
+                <li> Lunch (Downtown -  <a href="https://www.loroeats.com/">Loro</a> or <a href="https://www.bangersaustin.com/">Bangers (Bands)</a>)</li>
                 <li> Home - Naps/rest/take dogs out</li>
               </ul>
               <li>Evening </li>
               <ul>
-                <li> Adults - Dinner (bdays?) - El Gaucho Winery -  https://elgauchowinery.com/    </li>
+                <li> Adults - Dinner (bdays?) -   <a href="https://elgauchowinery.com/">El Gaucho Winery - </a>  </li>
                 <li> Kids - Hang </li>
               </ul>
             </ul>
@@ -62,19 +66,19 @@ function App() {
             <ul>
               <li>Morning </li>
               <ul>
-                <li> Hamilton Pool Reserve (HIKE) - https://parks.traviscountytx.gov/parks/hamilton-pool-preserve </li>
+                <li><a href="https://parks.traviscountytx.gov/parks/hamilton-pool-preserve">Hamilton Pool Reserve (HIKE)</a> </li>
               </ul>
               <li>Afternoon </li>
               <ul>
-                <li> Lunch - Jester King Brewery </li>
-                <li> 5 Soul Winery - Pickelball/Hangout</li>
+              <li><a href="https://jesterkingbrewery.com/">Lunch - Jester King Brewery</a> </li>
+                <li> 5 Soul Winery - Pickelball/Hangout (OPTIONAL - or at club)</li>
                 <li> Home - Naps/rest/take dogs out</li>
 
               </ul>
               <li>Evening </li>
               <ul>
                 <li> Dinner at Kings - order in or something</li>
-                <li> Austin Bat Boat Tour  </li>
+                <a href="https://www.capitalcruises.com/bat-watching/"> Austin Bat Boat Tour  </a>
                 <li> Downtown Night Life for those that aren't tired!  </li>
               </ul>
             </ul>
@@ -82,17 +86,14 @@ function App() {
           <h2>Tuesday, May 31st</h2>
           <div style={alignLeft}>
             <ul>
-              <li>Morning </li>
+              <li>Late Morning/Afternoon </li>
               <ul>
                 <li>Lake Austin Boating (4hr) </li>
-              </ul>
-              <li>Afternoon </li>
-              <ul>
                 <li> Boat will dock us at Ski/Shores for lunch </li>
               </ul>
               <li>Evening </li>
               <ul>
-                <li> Salt Lick BBQ </li>
+                <a href="https://saltlickbbq.com/"> Salt Lick BBQ</a> 
               </ul>
             </ul>
           </div>
