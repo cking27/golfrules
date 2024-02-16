@@ -21,14 +21,14 @@ function App() {
       <header className="App-header2">
         <img src="./tuna.gif" className="App-logo2" alt="logo" />
 
-        <h1>3rd Annual Charlie Tuna Open</h1>
+        <h1>4th Annual Charlie Tuna Open</h1>
         <h2>Monday - February 19th, 2024</h2>
       </header>
       <body>
 
-        <p><span>Welcome Players to the third annual&nbsp;</span><strong>Charlie 'Tuna' Open!</strong><span>&nbsp; We have a new format this year that you should be aware of that I hope will make things a little&nbsp;interesting.</span></p>
+        <p><span>Welcome Players to the 2024&nbsp;</span><strong>Charlie 'Tuna' Open!</strong><span>&nbsp; This format is a little different than our normal Loopers so you should be aware of that. I hope will make things a little&nbsp;interesting.</span></p>
         <div>&nbsp;</div>
-        <div><strong>Note:&nbsp;</strong>We really need all 8 to make this work. If you can't make it please let Chuck know early so we can get someone to fill in.&nbsp; The Tuna Open fee is $25!</div>
+        <div><strong>Note:&nbsp;</strong>We have 4 teams of 5 this year.  It's important we have the teams full so if you can't make it please let Chuck know early so we can get someone to fill in.&nbsp; The Tuna Open fee is $25!</div>
         <div>&nbsp;</div>
 
         <div style={alignLeft} >
