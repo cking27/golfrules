@@ -22,7 +22,7 @@ function App() {
         <img src="./tuna.gif" className="App-logo2" alt="logo" />
 
         <h1>3rd Annual Charlie Tuna Open</h1>
-        <h2>Monday - January 16th, 2023</h2>
+        <h2>Monday - February 19th, 2024</h2>
       </header>
       <body>
 
