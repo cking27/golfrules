@@ -13,25 +13,42 @@ const alignLeft = {
   textAlign: 'left',
 };
 
+const alignAndMarginLeft = {
+  textAlign: 'left',
+  marginLeft: '20px'
+};
+
+
+const leftBorder = {
+  borderLeft: '3px solid black', // Adjust border properties as needed
+};
+
+const contentMargin = {
+  marginLeft: '20px', // Adjust margin as needed
+};
 
 
 function App() {
   return (
-    <div className="App">
+    <div className="App" >
+
       <header className="App-header2">
-        <img src="./tuna.gif" className="App-logo2" alt="logo" />
+        <img src="./charlie.jpg" className="App-logo2" alt="logo" />
 
         <h1>4th Annual Charlie Tuna Open</h1>
         <h2>Monday - February 19th, 2024</h2>
       </header>
       <body>
 
-        <p><span>Welcome Players to the 2024&nbsp;</span><strong>Charlie 'Tuna' Open!</strong><span>&nbsp; This format is a little different than our normal Loopers so you should be aware of that. I hope will make things a little&nbsp;interesting.</span></p>
+        <p><span>Welcome Players to the 2024&nbsp;</span><strong>Charlie 'Tuna' Open!</strong><span>&nbsp; This format is a little different than our normal Loopers so you should be aware of that. I hope to make things a little&nbsp;interesting.</span></p>
+        <div>&nbsp;</div>
+        <div><strong style={{ fontSize:'140%',color: 'red' }} >NEW in 2024 - Charity Donation:&nbsp;</strong>This year we plan on donating food to the Hill Country Community Ministires (HCCM).  KK has been in touch. <strong style={{ textDecoration: 'underline' , color: 'red' }} >Pleae bring 5 Cans of Tuna for your donation. </strong>  </div>
         <div>&nbsp;</div>
         <div><strong>Note:&nbsp;</strong>We have 4 teams of 5 this year.  It's important we have the teams full so if you can't make it please let Chuck know early so we can get someone to fill in.&nbsp; The Tuna Open fee is $25!</div>
         <div>&nbsp;</div>
 
-        <div style={alignLeft} >
+      
+        <div style={alignAndMarginLeft} >
           <h2>The Rules</h2>
           <div style={alignLeft}>
             <ul>
@@ -54,15 +71,6 @@ function App() {
               </ul>
             </div>
             <div>&nbsp;</div>
-
-            {/* <h2>The Teams</h2>
-            <div style={alignLeft}>
-              <ul>
-                <li><strong>Team A</strong>  Pittsie, Donnie, Charlie K, Rob M</li>
-                <li><strong>Team B</strong>  Dan, Zeitz, CCC, Mike F</li> 
-                <li><strong>Team C</strong>  Gastwirth, Tim G,Rob A, Jamie</li>
-                 </ul>
-            </div> */}
 
             <h2>FAQs/Examples</h2>
             <div style={alignLeft}>
