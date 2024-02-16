@@ -42,7 +42,7 @@ function App() {
 
         <p><span>Welcome Players to the 2024&nbsp;</span><strong>Charlie 'Tuna' Open!</strong><span>&nbsp; This format is a little different than our normal Loopers so you should be aware of that. I hope to make things a little&nbsp;interesting.</span></p>
         <div>&nbsp;</div>
-        <div><strong style={{ fontSize:'140%',color: 'red' }} >NEW in 2024 - Charity Donation:&nbsp;</strong>This year we plan on donating food to the Hill Country Community Ministires (HCCM).  KK has been in touch. <strong style={{ textDecoration: 'underline' , color: 'red' }} >Pleae bring 5 Cans of Tuna for your donation. </strong>  </div>
+        <div><strong style={{ fontSize:'140%',color: 'red' }} >NEW in 2024 - Charity Donation:&nbsp;</strong>This year we plan on donating food to the Hill Country Community Ministires (HCCM).  KK has been in touch. <strong style={{ textDecoration: 'underline' , color: 'red' }} >Please bring 5 Cans of Tuna for your donation. </strong>  </div>
         <div>&nbsp;</div>
         <div><strong>Note:&nbsp;</strong>We have 4 teams of 5 this year.  It's important we have the teams full so if you can't make it please let Chuck know early so we can get someone to fill in.&nbsp; The Tuna Open fee is $25!</div>
         <div>&nbsp;</div>
