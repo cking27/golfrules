@@ -72,6 +72,16 @@ function App() {
             </div>
             <div>&nbsp;</div>
 
+            <h2><strong style={{ color: 'red' }} >NEW in 2024 - Pink Ball SKINS:&nbsp;</strong></h2>
+            <div style={alignLeft}>
+              <ul>
+              <li>In addition to the normal pool for skins, and additional 100$ will be used for SKINS on holes. This applies to those playing the pink ball ONLY on that hole.</li>
+              <li>The pink ball player is eligible for a SKIN vs entire field (normal skins) + a SKIN vs the other 3 pink ball players on that hole.</li>
+
+              </ul>
+            </div>
+            <div>&nbsp;</div>
+
             <h2>FAQs/Examples</h2>
             <div style={alignLeft}>
             <ul>
