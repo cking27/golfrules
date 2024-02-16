@@ -11,3 +11,19 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+/* CSS for mobile screens */
+@media (max-width: 600px) {
+  .App-logo2 {
+    width: 100%; /* Ensure the image takes up the full width of the container */
+    height: auto; /* Maintain aspect ratio */
+  }
+}
+
+/* CSS for desktop screens */
+@media (min-width: 601px) {
+  .App-logo2 {
+    max-width: 100%; /* Ensure the image doesn't exceed the container's width */
+    height: auto; /* Maintain aspect ratio */
+  }
+}

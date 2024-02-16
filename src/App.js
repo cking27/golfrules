@@ -33,7 +33,7 @@ function App() {
     <div className="App" >
 
       <header className="App-header2">
-        <img src="./charlie.jpg" className="App-logo2" alt="logo" />
+      <img src="./charlie.jpg" className="App-logo2" alt="logo" style={{ maxWidth: '100%', height: 'auto' }} />
 
         <h1>4th Annual Charlie Tuna Open</h1>
         <h2>Monday - February 19th, 2024</h2>
