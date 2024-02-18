@@ -75,8 +75,8 @@ function App() {
             <h2><strong style={{ color: 'red' }} >NEW in 2024 - Pink Ball SKINS:&nbsp;</strong></h2>
             <div style={alignLeft}>
               <ul>
-              <li>In addition to the normal pool for skins, and additional 100$ will be used for SKINS on holes. This applies to those playing the pink ball ONLY on that hole.</li>
-              <li>The pink ball player is eligible for a SKIN vs entire field (normal skins) + a SKIN vs the other 3 pink ball players on that hole.</li>
+              <li>In addition to the normal pool for skins there is a seperate pot of 100$ eligible ONLY to skins won by pink ballers.</li>
+              <li>Example:  You get a skin (normal looper rules) on hole #2 AND you are playing the pink ball on that hole. You split skin $$ per your shore from regular pot of skin $ + pink ball skin $.</li>
 
               </ul>
             </div>
@@ -124,6 +124,17 @@ function App() {
                 <li>Golf Genius- Record <strong>6 (Player A)</strong>/6/6/6 Pink ball can subtract 1 on their score. Non Pinks must add 1</li>  
                 <li>Play the rest of the round straight up. Your paper scorecard and GolfGenius will be same</li>          
               </ul>
+
+              <div>&nbsp;</div>
+              <li><i>SKin Scenario</i>  - <strong>Pink Ball Skins</strong></li>
+              <ul>
+                <li>Player A (playing pink ball) - gets a skin on hole #3</li>
+                <li>Player B (playing pink ball) - gets a skin on hole #4</li>
+                <li>Player C (NOT playing pink ball) - gets a skin on hole #14</li>
+                <li>Players A, B, C split skins in normal pot. </li>
+                <li>ONLY Players A & B  split skins in pink ball pot (50$ each). </li>
+              </ul>
+
 
               <div>&nbsp;</div>
               <li><strong>What about our GHIN posting?</strong></li>
