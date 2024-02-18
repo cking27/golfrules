@@ -76,7 +76,7 @@ function App() {
             <div style={alignLeft}>
               <ul>
               <li>In addition to the normal pool for skins there is a seperate pot of 100$ eligible ONLY to skins won by pink ballers.</li>
-              <li>Example:  You get a skin (normal looper rules) on hole #2 AND you are playing the pink ball on that hole. You split skin $$ per your shore from regular pot of skin $ + pink ball skin $.</li>
+              <li>Example:  You get a skin (normal looper rules) on hole #2 AND you are playing the pink ball on that hole. You split skin $$ for regular pot of skin $ + pink ball skin pot$.</li>
 
               </ul>
             </div>
